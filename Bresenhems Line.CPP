@@ -1,8 +1,8 @@
-#include <iostream>
+#include <iostream.h>
 #include <conio.h>
 #include <math.h>
 #include <dos.h>
-#include <graphics>
+#include <graphics.h>
 
 struct Point {
 	int x;
